@@ -1,0 +1,9 @@
+### ebay sandbox details ###
+App ID (Client ID): Ferdinan-h2rliste-SBX-75d80d3bd-1abd6615
+Cert ID (Client Secret): SBX-5d80d3bd8496-25cd-4205-825c-b2d7
+RuName (eBay Redirect URL name): Ferdinando_Brit-Ferdinan-h2rlis-htgmdq
+
+# Test user for sandbox
+username: TESTUSER_h2r
+email: boarder-elixir0n@icloud.com
+password: vovpod-cujcUz-xivge6
