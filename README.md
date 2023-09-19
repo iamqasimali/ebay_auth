@@ -137,7 +137,7 @@ You can either use [OmniAuth eBay Build Status](https://github.com/TheGiftsProje
   expires_in=299
 ```
 
-![alt text](public/images/image.jpg)
+![alt text](public/images/image.png)
 
 
 The example above shows how the authorization code value is returned in the code parameter. The authorization code is tied a single user and you exchange the code for a User access token that is also tied to that user.
